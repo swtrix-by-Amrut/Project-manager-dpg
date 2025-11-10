@@ -1,5 +1,7 @@
 # Project-Manager
 
+Update : this project is now abandoned. As latest ARM based windows PCs don't have support for dearpygui. and I found web interfaces using python to be way better at this task. <br>
+
 ![Intro](readme_resources/intro.gif)
 
 <h3>About</h3>
